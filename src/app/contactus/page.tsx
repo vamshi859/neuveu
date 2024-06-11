@@ -1,7 +1,7 @@
 import './styles.scss'
 const ContactUS = () => {
     return (
-        <div style={{ display: 'flex', justifyContent: 'center', flexDirection: 'column', width: '100%', alignItems: 'center' }}>
+        <div style={{ display: 'flex', justifyContent: 'center', flexDirection: 'column', width: '100%', alignItems: 'center',marginTop:'100px' }}>
             <div style={{ fontSize: '45px', fontWeight: 700, lineHeight: '1.4em', display: 'flex' }}>
                 <p>Get In</p>
                 <p style={{ color: '#157EFB' }}>Touch</p>
